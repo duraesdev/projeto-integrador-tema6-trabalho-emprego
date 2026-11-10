@@ -1,0 +1,5 @@
+Coloque aqui as imagens (jpg/jpeg/png). Elas aparecem sozinhas na seção "Notícias e contexto":
+  noticia_pnad.jpg, noticia_desemprego.jpg, noticia_caged.jpg  -> cards das 3 notícias
+  foto_1.jpg, foto_2.jpg, foto_3.jpg ...                       -> galeria de trabalhadores
+Use fotos de banco livre (Agência Brasil, Unsplash, Pexels) e cite a fonte em LEGENDAS_FOTOS
+(no modulo_trabalho_emprego.py). Também dá para enviar fotos direto pela página.
